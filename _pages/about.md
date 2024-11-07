@@ -13,7 +13,7 @@ I am a researcher in microbiology at the Research Institute for Gastroenterology
 My research themes include:
 
 - **Microbiome Analysis and Disease Modeling**: Investigating how gut microbes influence disease, including cancer and liver diseases.
-- Gene Expression Profiling and Computational Biology: Utilizing **bioinformatics techniques** to explore molecular mechanisms in gastrointestinal diseases.
+- **Gene Expression Profiling and Computational Biology**: Utilizing bioinformatics techniques to explore molecular mechanisms in gastrointestinal diseases.
 - **Microbiome Therapeutics and Drug Delivery**: Developing models for microbiome-based therapies and studying probiotic effects, including projects on *Lactobacillus crispatus*.
 
 I hold a bachelor’s degree from Alzahra University and a master’s degree from Azad Medical University of Tehran. In addition to my lab work, I teach biology, helping students delve into the molecular and cellular complexities of life. My background spans microbiology, molecular biology, and computational biology, allowing me to approach these themes holistically, with an eye toward personalized medicine.
