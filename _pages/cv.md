@@ -19,6 +19,7 @@ Education
   * GPA: 3/4
   * Selected Coursework: Genetic Engineering, Bioinformatics, Enzymology, Protein Biotechnology, Pharmaceutical Engineering, Machine Learning, Python, NGS Analysis
 
+
 Work Experience
 ======
 * 2024 - Present: Molecular Biology Researcher  
@@ -36,18 +37,6 @@ Technical Skills
 
 
 
-Publications
-======
-<ul>{% for post in site.publications reversed %}
-  {% include archive-single-cv.html %}
-{% endfor %}</ul>
-
-Selected Publications:
-* "Characterization of the Mucosal Microbiota in Patients with Nodular Lymphoid Hyperplasia with Concurrent Irritable Bowel Syndrome Compared to Healthy Controls" – *Molecular Biology Reports*, Springer, 2023.
-* "Characterization of Vaginal *Lactobacillus* Species as a Predictor of Fertility Among Iranian Women" – *Molecular Biology Reports*, Springer, 2023.
-* "The Human Oral Microbiota: A Gateway to Pancreatic Health and Disease and Revolutionary Therapeutic Strategies" – Submitted to *Trends in Molecular Medicine*, 2024.
-* Additional publications under review.
-
 Notable Projects
 ======
 * **Multilocus Sequence Typing of *Clostridioides difficile* (2024)**  
@@ -61,9 +50,30 @@ Notable Projects
 
 Teaching
 ======
-* Teaching Assistant: Seminar course, Azad University, Tehran Medical Branch, 2021-2022
+* Teaching Assistant: Seminar course, Islamic Azad University, Tehran Medical Branch, 2021-2022
 
-Service and Leadership
+
+
+
+<!-- 
+Publications
 ======
-* Member of various research initiatives in microbial biotechnology and bioinformatics
-
+  <ul>{% for post in site.publications reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+  
+Talks
+======
+  <ul>{% for post in site.talks reversed %}
+    {% include archive-single-talk-cv.html  %}
+  {% endfor %}</ul>
+  
+Teaching
+======
+  <ul>{% for post in site.teaching reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul> -->
+  
+<!-- Service and leadership
+======
+* Currently signed in to 43 different slack teams -->
