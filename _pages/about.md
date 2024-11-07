@@ -7,18 +7,17 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I’m Armita, and I’m on a mission to uncover the hidden connections between our genes, microbiota, and immune and nervous systems. I earned my bachelor’s degree from Alzahra University and master’s degree from Azad Medical University of Tehran. Currently, I work as a researcher in a microbiology lab, where I focus on gaining a molecular perspective of human diseases. In addition to my research, I also teach biology, sharing my enthusiasm for science and helping students explore the fascinating complexities of life at the cellular and molecular levels.
 
-I’m deeply fascinated by how details at the molecular level influence broader biological systems, offering new insights for health improvement and disease prevention. My background in microbiology, molecular biology, and computational biology allows me to approach these questions with a holistic perspective. Whether I’m investigating how gut microbes impact cancer events, using machine learning to predict health outcomes, or engineering probiotics for therapeutic use, my goal is to drive meaningful insights that could shape the future of personalized medicine.”
+I am a researcher in microbiology at the Research Institute for Gastroenterology and Liver Diseases, with a focus on **bioinformatics applications in cancer biology**. My work is guided by a deep interest in understanding the **hidden connections** between our genes, microbiota, and immune and nervous systems, to uncover new insights for **health improvement and disease prevention**.
 
+My research themes include:
 
+- **Microbiome Analysis and Disease Modeling**: Investigating how **gut microbes influence disease**, including cancer and liver diseases.
+- **Gene Expression Profiling and Computational Biology**: Utilizing **bioinformatics techniques** to explore **molecular mechanisms** in gastrointestinal diseases.
+- **Microbiome Therapeutics and Drug Delivery**: Developing **models for microbiome-based therapies** and studying **probiotic effects**, including projects on *Lactobacillus crispatus*.
 
-My Work and Research
-======
-My work as a researcher in a microbiology lab at the Research Institute for Gastroenterology and Liver Diseases has immersed me in diverse projects in microbiology, molecular biology, and bioinformatics. Currently, my focus is on bioinformatics applications in cancer biology, with experience that includes clinical microbiology research, where I was part of an anaerobic bacterial research group exploring gastrointestinal diseases, microbiome therapies, and drug delivery modeling.
+I hold a bachelor’s degree from **Alzahra University** and a master’s degree from **Azad Medical University of Tehran**. In addition to my lab work, I teach biology, helping students delve into the molecular and cellular complexities of life. My background spans **microbiology, molecular biology, and computational biology**, allowing me to approach these themes holistically, with an eye toward **personalized medicine**.
 
-
-Through projects like multilocus sequence typing of Clostridioides difficile and studying the protective effects of Lactobacillus crispatus in liver disease models, I’ve developed expertise in microbiome analysis, gene expression profiling, and computational biology techniques. Teaching biology alongside my research allows me to inspire students and share my excitement for uncovering the mysteries of life through both laboratory work and data analysis.
 
 
 
