@@ -43,26 +43,50 @@ Selectd Publications
   *BMC Microbiology*, Springer, 2023.  
   [DOI: 10.1007/s11033-023-08745-2](https://doi.org/10.1007/s11033-023-08745-2)
 
+
+
+
+
+
+
+
+
+
+
+
+
+News
+======
+### October 2024 – Exploring the Role of Non-Coding RNA in NAFLD and Lactobacillus Therapy
+We’re thrilled to announce the second phase of our project on non-alcoholic fatty liver disease (NAFLD) and the therapeutic potential of Lactobacillus strains. This time, we’re using RNA sequencing to dive deeper into non-coding RNAs that may influence NAFLD to identify specific non-coding RNAs that respond to Lactobacillus therapy.
+
+### June 2024 – New Project Launched on Bacterial Toxins and Autophagy!
+Exciting news! We’ve assembled a talented team to investigate the impact of bacterial toxins on autophagy. Our project will begin with an in-depth review of current knowledge in the field, setting the stage for future in vivo experiments to explore how these toxins might influence cellular cleanup processes like autophagy.
+
+### February 2024 – Upcoming Publication on Gut Microbiota and Physical Performance!
+Our research on the connection between gut microbiota and physical performance is about to make waves! We’re thrilled to share that our findings, soon to be published in Scientific Reports, reveal how specific microbiota compositions could shape athletic performance.
+
+### November 2023 – Investigating Akkermansia muciniphila’s Role in Apoptosis in Intestinal Cells
+Our team has been hard at work studying the effects of Akkermansia muciniphila, a key gut bacterium, on apoptosis in Caco-2 cells. This research could have important implications for gut health, as apoptosis (or programmed cell death) is critical in maintaining a healthy gut lining.
+
+### April 2023 – Gut-Brain Axis and Alzheimer’s Disease: New In Vitro Study
+Can gut health influence brain health? We’re diving into this question by studying the impact of gut microbiota on Alzheimer’s disease markers. Using an in vitro model, our team is exploring how gut-derived compounds might impact cellular processes involved in neurodegeneration.
+
+
+
+
+
+
+
+
+
+
+
+
+
 Site-wide configuration
 ------
 The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/armitaem.github.io/main//blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/armitaem.github.io/main//blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
-
-News
-------
-October 2024 – Exploring the Role of Non-Coding RNA in NAFLD and Lactobacillus Therapy
-               We’re thrilled to announce the second phase of our project on non-alcoholic fatty liver disease (NAFLD) and the therapeutic potential of Lactobacillus strains. This time, we’re using RNA sequencing to dive deeper into non-coding RNAs that may influence NAFLD to identify specific non-coding RNAs that respond to Lactobacillus therapy.
-
-June 2024 – New Project Launched on Bacterial Toxins and Autophagy! 
-               Exciting news! We’ve assembled a talented team to investigate the impact of bacterial toxins on autophagy. Our project will begin with an in-depth review of current knowledge in the field, setting the stage for future in vivo experiments to explore how these toxins might influence cellular cleanup processes like autophagy.
-
-February 2024 – Upcoming Publication on Gut Microbiota and Physical Performance!
-                Our research on the connection between gut microbiota and physical performance is about to make waves! We’re thrilled to share that our findings, soon to be published in Scientific Reports, reveal how specific microbiota compositions could shape athletic performance.
-
-November 2023 – Investigating Akkermansia muciniphila’s Role in Apoptosis in Intestinal Cells
-               Our team has been hard at work studying the effects of Akkermansia muciniphila, a key gut bacterium, on apoptosis in Caco-2 cells. This research could have important implications for gut health, as apoptosis (or programmed cell death) is critical in maintaining a healthy gut lining.
-
-April 2023 – Gut-Brain Axis and Alzheimer’s Disease: New In Vitro Study  
-                Can gut health influence brain health? We’re diving into this question by studying the impact of gut microbiota on Alzheimer’s disease markers. Using an in vitro model, our team is exploring how gut-derived compounds might impact cellular processes involved in neurodegeneration.
 
 
 **Markdown generator**
