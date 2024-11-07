@@ -44,7 +44,7 @@ Selectd Publications
   *BMC Microbiology*, Springer, 2023.  
   [DOI: 10.1007/s11033-023-08745-2](https://doi.org/10.1007/s11033-023-08745-2)
 
-Site-wide configuration
+News
 ------
 The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/armitaem.github.io/main//blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/armitaem.github.io/main//blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
 
