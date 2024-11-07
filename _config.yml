@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Welcome to the Armia Emami Homepage!"
+title                    : "Welcome to my Homepage!"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
