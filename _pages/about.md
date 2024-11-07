@@ -9,11 +9,18 @@ redirect_from:
 
 Hello! I’m Armita, and I’m on a mission to uncover the hidden connections between our genes, microbiota, and immune and nervous systems. I earned my bachelor’s degree from Alzahra University and master’s degree from Azad Medical University of Tehran. Currently, I work as a researcher in a microbiology lab, where I focus on gaining a molecular perspective of human diseases. In addition to my research, I also teach biology, sharing my enthusiasm for science and helping students explore the fascinating complexities of life at the cellular and molecular levels.
 
-A data-driven personal website
-======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+I’m deeply fascinated by how details at the molecular level influence broader biological systems, offering new insights for health improvement and disease prevention. My background in microbiology, molecular biology, and computational biology allows me to approach these questions with a holistic perspective. Whether I’m investigating how gut microbes impact cancer events, using machine learning to predict health outcomes, or engineering probiotics for therapeutic use, my goal is to drive meaningful insights that could shape the future of personalized medicine.”
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+
+
+My Work and Research
+======
+My work as a researcher in a microbiology lab at the Research Institute for Gastroenterology and Liver Diseases has immersed me in diverse projects in microbiology, molecular biology, and bioinformatics. Currently, my focus is on bioinformatics applications in cancer biology, with experience that includes clinical microbiology research, where I was part of an anaerobic bacterial research group exploring gastrointestinal diseases, microbiome therapies, and drug delivery modeling.
+
+
+Through projects like multilocus sequence typing of Clostridioides difficile and studying the protective effects of Lactobacillus crispatus in liver disease models, I’ve developed expertise in microbiome analysis, gene expression profiling, and computational biology techniques. Teaching biology alongside my research allows me to inspire students and share my excitement for uncovering the mysteries of life through both laboratory work and data analysis.
+
+
 
 Getting started
 ======
