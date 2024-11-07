@@ -31,7 +31,7 @@ author:
 
 
   location         : # URL
-  employer         : "SBMU"
+  employer         : "SBMU***"
   uri              : # URL
   email            : "armitaemami1997@gmail.com" 
 
@@ -223,12 +223,7 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
-    output: true
-    permalink: /:collection/:path/
-  talks:
-    output: true
-    permalink: /:collection/:path/
+
 
 
 # These settings control how pages and collections are included in the site
