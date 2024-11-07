@@ -12,7 +12,7 @@ title                    : "Welcome to my Homepage!"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
-url                      : https://armitaem.github.io/main/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://armitaem.github.io/main # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/armitaem.github.io/main/"
 
