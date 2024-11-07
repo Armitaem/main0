@@ -60,7 +60,7 @@ February 2024 – Upcoming Publication on Gut Microbiota and Physical Performanc
 
 November 2023 – Investigating Akkermansia muciniphila’s Role in Apoptosis in Intestinal Cells
                Our team has been hard at work studying the effects of Akkermansia muciniphila, a key gut bacterium, on apoptosis in Caco-2 cells. This research could have important implications for gut health, as apoptosis (or programmed cell death) is critical in maintaining a healthy gut lining.
-               
+
 April 2023 – Gut-Brain Axis and Alzheimer’s Disease: New In Vitro Study  
                 Can gut health influence brain health? We’re diving into this question by studying the impact of gut microbiota on Alzheimer’s disease markers. Using an in vitro model, our team is exploring how gut-derived compounds might impact cellular processes involved in neurodegeneration.
 
